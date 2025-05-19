@@ -11,7 +11,7 @@ Welcome to my GitHub profile!
 - **Web Technologies**: HTML, CSS, React.js, Node.js, Next.js
 - **Data Analysis Technologies**: numpy, pandas, matplotlib, scikit-learn
 - **Databases**: SQL, MySQL, MongoDB
-- **Concepts**: Data Structures and Algorithms, Object-Oriented Programming, Database Management Systems, Relational Database, API Integration, Machine Learning, Artificial Intelligence, Computer System
+- **Concepts**: Data Structures and Algorithms, Object-Oriented Programming, Database Management Systems, Relational Database, API Integration, Machine Learning, Artificial Intelligence, Computer Vision
 
 ## 📫 How to reach me
 - Email: [arnavkejriwal582@gmail.com](mailto:arnavkejriwal582@gmail.com)
