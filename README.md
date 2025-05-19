@@ -3,7 +3,8 @@
 Welcome to my GitHub profile!
 
 ## 🎓 Educational Background
-- Currently pursuing a Bachelor of Engineering in **Computer Science** at the University of Hong Kong.
+- Currently pursuing a Bachelor of Engineering in **Computer Science** at the **University of Hong Kong**.
+- Completed a semester abroad at the **School of Informatics** at the **University of Edinburgh**.
 
 ## 🚀 Technical Skills
 - **Languages**: Java, C++, Python, JavaScript
